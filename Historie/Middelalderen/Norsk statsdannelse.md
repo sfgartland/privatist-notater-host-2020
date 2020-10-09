@@ -33,8 +33,15 @@ Håkon var dog den kongen som bygget opp noen av de første institusjonene i kon
 
 Håkon den gode hadde blitt oppdratt som kristen hos sin fosterfamilie i England, men etter å ha møtt motstand i Norge ga han opp på sitt forsøk å kristne landet, og var svært tolerang ovenfor den hedenske tro.
 
-## Harald Haraldsson
+## Olav Haraldsson
 Olav den hellige hadde en viktig rolle i samlingen av Norge til et rike. Han innførte  bla. lendmenn øvrigheten for å skaffe seg lojalitet blant bygdearistokratiet/små høvdingene, og innførte også årmenn institiusjonen som hjalp til å holde tilbake makten til lendmennene, samt minske kongens nødvendighet for personlige forhold for å beholde makten.
+
+## Tiden mellom Olav Haraldsson og 1130
+Den første tiden etter Olav Haraldsson var preget av utvidelse helt til vikingetidens slutt i 1066 ved den norske kongens fall ved stamford bridge, og noe lengre ved forsøk på å erobre deler av irland i 1103. Den videre tiden da var preget av videre utvikling av det norske kongedømmet, dets institusjoner bla. kirken, og byutvikling. Det norske kongedømmet ble også mer innvolvert i politikken i europa, kongeslekten ble inngift i de europeiske kongehusene, og de var involvert i korstogsbevegelsen. 
+
+Tiden fra 1130 og fremover kalles ofte Borgerkrigstiden pga. de mange interne konfliktene. En teori på hvorfor det var så mye konflikt på denne tiden er at militærstyrkene i europa ble mer organiserte og effektive slik at det ikke lengre var mulig å anskaffe seg makt og rikdom ved å reise på vikingetokter.
+
+
 
 
 ## Institusjoner i middelalderen
@@ -75,7 +82,11 @@ Ved en retterbot sendt ut av Håkon 5 Magnusson i 1308 ble lendmenn/baron(og jar
 
 
 ### Valgrike vs. arverike
-I et arverike blir den neste monarken bestemt ved arv(tenk odel), mens i et valgrike blir den neste monarken bestemt ved valg. I de nordiske rikene(Danmark, Norge og Sverige). Norge var det nordiske landet som holdt lengst på arverike tradisjonen, men ble etter et [interegnet](https://snl.no/interregnum) ble også Norge et valgrike. Og som konsekvens av dette fikk riksrådet mye større makt også i Norge.
+I et arverike blir den neste monarken bestemt ved arv(tenk odel), mens i et valgrike blir den neste monarken bestemt ved valg.
+
+I det tidlige norske kongeriket var alle mannlige etterkommere etter kongen i utgangspunktet å regne som kongsemner. Og etter en konge døde oppstod det gjerne en maktkamp mellom flere kongsemner. Under/etter borgerkrigstiden ble dog tronearven formalisert til å kun falle til den førstefødte mannelige etterkommeren av kongen. Med andre ord ble Norge til et rent arverike, i motsettning til de andre nordiske rikene som var valgriker.
+
+I de nordiske rikene(Danmark, Norge og Sverige). Norge var det nordiske landet som holdt lengst på arverike tradisjonen, men ble etter et [interegnet](https://snl.no/interregnum) ble også Norge et valgrike. Og som konsekvens av dette fikk riksrådet mye større makt også i Norge.
 
 ### Riksrådet
 Riksrådene vokste frem i de nordiske landene (hovedsakelig Norge, Danmark og Sverige?) i høymiddelalderen. De hadde sitt opphav i kongerådene som oppsto på 1200-tallet. Riksrådene besto i hovedsak av representanter fra det geistelige(i.e. biskopper) samt adelsmenn/arisokratiet. I forbindelse med 

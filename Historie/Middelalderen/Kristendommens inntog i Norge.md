@@ -30,12 +30,16 @@ Som følge av nederlag i et viktig slag og den generelle misnøyen blant stormen
 
 I 1029 døde rikssyreren jarl Håkon og Olav Haraldsson så med det sitt snitt og returnerte til Norge med en hær han hadde samlet. i 1030 nådde han Trøndelag, og kjempet da slaget på Stikklestad mot en bondehær. Begge hærene besto sannsyneligvis av stortsett kristne, så slaget sto mest sannsynlig om kongsmakten og ikke religion.
 
+### Paraleller mellom nasjonsbyggning på 1800 tallet og dyrkningen av Olav den hellige som helgen
+
 
 # Kirkens fremvokst
 
 Den første riksdekkende kirkeorganisasjonen ble grunnlagt av som nevnt ovenfor av Olav Haraldsson i 1024. I tiden før og rundt 1100-tallet fortsatte kirken i Norge å utvikle seg, og flere biskop seter vokste frem. I 1152 ble Norge en egen kirkebiskop hos den vestlige kirken og et erkebiskopsete ble opprettet i Nidaros.
 
 Ved oppretelsen av erkebispesetet i Nidaros fikk den vestlige kirken med pavens sete i Roma økende makt. Kirkens arbeid for mer makt førte til spenninger mellom kirken on kongen, denne konflikten nådde sitt høydepunkt i 1277.
+
+# Kirkens kraft som omvelter av samfunnsordenen
 
 
 # Reformasjonen
@@ -56,3 +60,7 @@ I den danske håndfestningen som Christian III underskrev i oktober 1536 sto det
 Den norske erkebiskopen Olav Engelbrektsson var sterk motstander av avviklingen av Norge som et eget rike. Og den maktkampen som fulgte etter erklæringen endte med at Engelbrektsson måtte flykte landet i 1537.
 
 Den norske reformasjonen var ganske atypisk samenlignet med resten av nord-Europa med at det ikke fantes noen stor reformasjonsbevegelse før reformasjonen ble gjennomført av Christian III i 1536. Christian III lot de katolske presteskapet fortsette, forutsatt at de underkastet seg kirkeordinansen.
+
+#### Reformasjones bivirkninger
+En vesentlig ide innen reformasjonen var det direkte forholdet mellom gud og den troeende. Dette førte til et ønske om å gjøre bibelen tilgjengelig for alle. Martin Luther oversatte derfor bibelen fra latinsk til tysk, og den ble senere oversatt til mange andre europeiske språk. Man tror at den nye tilgjengeligheten og idealene som reformasjonen kom med førte i kombinasjon med guthenbergs trykkpresse førte til en stor vokst i lese og skriveferdighetene til folk flest.
+

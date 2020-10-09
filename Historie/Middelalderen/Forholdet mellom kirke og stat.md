@@ -1,0 +1,14 @@
+Forholdet mellom kirke og stat
+
+# Vinn-vinn situasjon for begge parter
+Etter romerrikets fall i vesteuropa var ikke lengre kongemakten og kirkemakten forent i keisermakten slik den fortsatte å være i det øst-romerske riket i Konstantinopel(Istanbul). Fordelene med et tett samarbeid mellom kirken og kongene ble dog tydelig for begge partene tidlig i middelalderen. Karl den stores(Charlemange) rike ble på slutten av 700 tallet truet av det muslimske kaliphatet som hadde erobret store deler av Iberia, og som da truet også frankerriket til Karl den store. Kirken hadde store eiendommer som ga gode inntekter, men muslimene i Iberia truet denne inntektskilden. Kirken med Paven i spissen gikk derfor inn for å støtte Karl den store, imot at han beskyttet deres eiendommer. Dette kulminerte med at Paven kronet Karl den store til symbolsk keiser av det gamle vest-romerske riket, og ga slik legimitet til hans kongedømme over vest-europa.
+
+## Maktforholdet mellom kongemakten og kirken i Norge
+
+Vi kan se en lignende utvikling som den gitt ovenfor iløpet av siste halvdel av 1100-tallet og utover 1200 tallet i Norge. I 1163(eller 1164) ble Magnus Erlingsson kronet til konge av erkebiskopen. Dette mest sansynlig pga. et ønske om politisk stabilitet, da konflikten om kongemakten som vi idag kaller borgerkrigstiden hadde pågått siden ca. 1130. I følge med kroningen ble også arbeidet med å stramme inn arvereglene for kongemakten igangsatt, og nå var det kun den førstefødte mannlige etterkommeren av kongen som skulle kunne arve kongesetet. Noe som var noe ironisk, da Magnus Erlingsson kun hadde slektskap til kongeætten igjennom sin mor.
+
+Denne maktutdøvelsen av kirken ble ikke godt mottatt av det verdslige aristokratiet da de var bekymret for kirkens økende makt på bekostning av deres. Denne motsetningen mellom aristokratiet og kirken ende med kong Sverre og birkeneinernes kamp mot og seier over kong Magnus. Kirken bannlyste da kong Sverre.
+
+Baglerne som reiste seg på østlandet med støtte fra kirken og danmark kjempet mot birkebeinerne. Sverre innså etterhvert vanskene med å styre som konge uten kirkens støtte, og oppfordret sin etterfølger til å inngå et kompromiss med motstanderne. Sverre døde i 1202. Sverres sønnesønn Håkon Håkonson ble kronet til konge i 1217 med støtte fra begge sider.
+
+Fotnote: Krigingen i borgerkrigstiden førte til at mange av de gamle lendmennene(altså aristokratiet) døde. Kong Sverre erstattet da mange av disse med ledere fra birkebeineren. Disse nye lendmennene hadde ikke like stor tilknytning til det lokale bondesamfunnet, noe som igjen førte til større sentralisering av makten i samfunnet. Med andre ord fortsatte de samme utiklingstendensene vi har sett helt fra Harald Hårfagres tid.
