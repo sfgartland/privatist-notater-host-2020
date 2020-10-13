@@ -41,6 +41,17 @@ Ved oppretelsen av erkebispesetet i Nidaros fikk den vestlige kirken med pavens 
 
 # Kirkens kraft som omvelter av samfunnsordenen
 
+## "Norskifisering" av kristendommen
+Forskjellen mellom en hedensk religion med et helt univers av guder til en monoteistisk religion med begreper som synd, helvette og presteskap var uten tvil store. Og overgangen fra hedens tro til kristendommen vil jeg beskrive som mer som en sammensmeling eller stor tilpassning av de forskjellige livssynene. Mange av de gamle høytidene og ritualene ble opprretholdt, og for det meste bare presentert i nye kristne klær.
+
+De mer grunnleggene konseptene som synd, himmel, helvette, nye moralverdier osv. hadde antagelivis mye større effekt på allmenbefolkningen og ble sakte tatt opp i kulturen.
+
+## Helgendyrkelsen tar over for gude phanteonet
+Den typen kristendom som tok over for hedensk tro åpnet for helgendyrkelse, disse kan ha fungert som "plug-n-play" figurer for de gamle hedenske gudene som alle hadde sine spesialiserte roller, som f.eks. fruktbarhet, krigsguder osv. Man kunne da ganske enkelt bytte ut de gamle gudene man dyrket med de passende helgenene.
+
+## Reorganisering av samfunnet
+Da den katolske tro er organisert ved at øvrigheten fungerer som et bindelledd mellom den troende og gud ble allmenheten mye mer avhengig av presteskapet i sin religionsutdøvelse sammenlignet med før. Dette brakte med seg stor makt for presteskapet og den kirkelige organisasjonen.
+
 
 # Reformasjonen
 
