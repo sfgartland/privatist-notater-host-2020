@@ -1,6 +1,7 @@
 Radioaktivitet
 
 # Partikler og stråling
+Det er umulig å forutsi når et atom vil sende ut noen for for radioaktiv stråling, med andre ord er det tilfeldig, og kommer uten noen form for forvarsel. Det eneste vi kan måle er den gjenomsnittelige tiden til mange atomer. Dette kalles halveringstid???
 
 ## Alfas-/α- stråling/partikler
 Alfastråling består av alfapartikler. Alfapartikler er partikler bestående av 2 protoner og 2 neutroner, de er altså identiske til kjernen i et heliumatom(^4^He^2+^).
@@ -19,8 +20,11 @@ Gammastråling er ioniserende elektromagnetisk stråling, og i motsettning til a
 
 Gammastråling er den mest energirike formen for elektromagnetisk stråling, og kategoriseres som all EM-stråling over 30EHz, eller all EM-stråling med en bølgelengde mindre enn 10 pm. Denne typen stråling befinner seg med andre ord over røntgen-stråling.
 
-Gammastråler 
+Gammastråler blir sendt ut av atomer når en sammensettning av kjernen med et høyt energinivå endrer sammensetning til en type med laver energinivå. Atomer har ofte dette høye energinivået rett etter at de har sendt fra seg en alfa eller beta partikel. Denne overgangen fra høyt til lavt energinivå kan sammenlignes med elektronene som går opp og ned i energibanene, og da gir fra seg energi iform av et photon.
 
+### Praktisk bruk av gamma-stråling
+
+Et praktisk bruksområde for gamma-stråling er i form av stoffet technetium. Technetium(^99m^~43~Tc) stråler ut veldig små mengder gammastråling(denne isotopen har en halveringstid på 6,02 timer). Mengden gammastråling det slipper ut anses som relativt ufarlig, og man bruker det derfor ofte som sporstoff i nukleiærmedesinske sammenhenger.
 
 
 ## Ioniserende stråling

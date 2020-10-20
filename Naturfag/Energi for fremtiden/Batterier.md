@@ -1,7 +1,5 @@
 Batterier
 
-#
-
 # Batterityper
 
 ## Blyakkumulator

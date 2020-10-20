@@ -16,3 +16,6 @@ De forskjellige isotopene av et stoff ankommer vanligvis i et fast forhold iforh
 
 ## Anrikning
 Anrikning er en prosses hvor man ved hjelp av noen prosesser øker antallet av en eller flere isotyper i en forekomst. Anrikning blir bla. brukt til å produsere radioaktive isotoper for bruk i kjernekraft og kjernevåpen. Det er også den prossesen som blir brukt til å fremstille tungtvann. Navnet tungtvann kommer nettopp av at noen atomer i vannmolekylet har flere nøytroner, og blir slik "tyngre".
+
+### Som sporingsmiddel i kjemiske reaskjoner/systemer
+Siden isotoper av samme grunnstoff har (stort sett) identiske kjemiske egenskaper kan de benyttes som verktøy for å bedre forstå kjemiske reaksjoner. Hvis man da benytter en blanding av atomer som har blitt anriket med et spesifikt isotop kan man følge med på hvordan disse isotopene beveger seg i reaksjonen/systemet, og bruke det som et slags fingeravtrykk, og slik bedre forstå hvordan systemet oppfører seg.
