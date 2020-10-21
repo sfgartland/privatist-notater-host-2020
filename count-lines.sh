@@ -1,5 +1,5 @@
 #! /bin/sh
 
-find ./ -type f -name "*.md" -exec wc -w {} +
+find ./ -type f -not -path "*/backup/*" -name "*.md" -exec wc -w {} +
 
 exit 0
