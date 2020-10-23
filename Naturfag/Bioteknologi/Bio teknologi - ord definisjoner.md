@@ -25,7 +25,7 @@ Bio teknologi - ord definisjoner
 
 ---
 
-Din **genotype** er det settet med gener du har fått. Din *genotype* legger grunnlaget for din *fenotype*.
+Din **genotype** er det settet med gener du har fått. Din *genotype* legger grunnlaget for din *fenotype*. Ved å basere avl på genotyper istedenfor *fenotyper* kan man være mer effektiv.
 
 ---
 
@@ -40,3 +40,6 @@ Din **fenotype** er benevnelsen på hvordan akkurat du er, det vil si hvilke ege
 **Heterozygot** betyr at et individ har to forskejellige utgaver av et gen, det vil si to forskjellige *alleler*. En *allele* fra mor og en *allele* fra far. F.eks. genet for at en erteplante får røde blomster er **A**, og genet for hvit blomst er **a**. Hvis planten da har genene **Aa** kan vi kalle plantent *heterozygot*.
 
 **Homozygot** betyr at et individ har det samme genet(*allele*) på begge kromosonene i paret. I eksemplet ovenfor må derfor denne planten ha enten **AA** eller **aa** for å kalles *homozygot*.
+
+---
+**Plasmid** er en DNA "ring" som ligger inne i cellen. **plasmider** finnes kun i bakterier, og noen typer gjærceller. De inneholder gener som bakterien kun untaksvis har bruk for, som f.eks. gener som koder for antibiotikaresistans. Kunstige plasmider brukes også innen bioteknologi til produksjon av f.eks. insulin.

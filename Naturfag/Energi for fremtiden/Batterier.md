@@ -1,6 +1,12 @@
 Batterier
 
-# Batterityper
+# Miljøbevisthet
+Noen batterityper inneholder miljøskadelige stoffer som f.eks. tungmetallene Kvikksølv(Hg), Cadmium(Cd) og Bly(Pb). Det er funnet alternativer til f.eks. kvikksølvbatterier og de brukes mindre og mindre, men metaller som Cadmium brukes i lithiumion-batterier som vi alle har i mobilene våre.
+
+## Konsekvenser
+Hvis disse batteriene havner i naturen eller restavfall vil de etter hvert finne sin vei inn i næringskjeden. Tungmetaller har den uheldige egenskapen at de akkumuleres i organismer, altså vi blir ikke kvitt de etter hvert, og de blir derfor med oppover matkjeden, og vil tilslutt ende opp i mennesker. I mennesker og andre dyr vil tungmetaller føre bla. til nerveskader, muskelskader, fosterskader.
+
+# Oppladbare batterier
 
 ## Blyakkumulator
 
@@ -40,8 +46,33 @@ Brukes mye i elektronikkprodukter som kameraer og lignende.
 
 ## Lithiumionbatteri
 
-### Fordeler og ulemper
-
 ### Virkemåte
+Lithiumionbatterier består av en lithium-kadmiumoksid katode, og en grafitt anode. Ved oppladning blir katoden tilført elektroner, noe som frigjør lithiumatomene, som reiser igjennom den organiske elektrolytten og lagres mellom lagene med karbon i grafitten. Katoden består da av kadmiumoksid og anoden består av karbon og lithium lagret mellom lagene av grafitt. Elektrolytten fungerer i dette tilfellet som en saltbro.
+
+Cellespenningen til Lithiumionbatteriene er 3,6V-3,7V.
+
+**Halvreaksjonen i katodesiden:**
+CdLiO~2~ <-> CdO~2~ + Li^+^ + e^-^
+*(Utladning er høyre til venstre, oppladning motsatt)*
+
+**Halvreaksjon ved anodesiden:**
+C~6~ + Li^+^ + e^-^ <-> LiC~6~
+*(Utladning er høyre til venstre, oppladning motsatt)*
+
+**Helreaksjon:**
+C~6~ + LiCdO~2~ <-> LiC~6~ + CdO~2~
+*(Utladning er høyre til venstre, oppladning motsatt)*
+
+Noen nyere lithiumion batterier bruker fosfat istedenfor oksid til katode, og man fjerner med det oksygen i batteriet, og de er mer brannsikre. Batteriene med fosfat holder seg også gode i flere ladesyklusser, kan fulllades med spenninger helt ned mot 3,6V, og har høyere belastbarhet.
+
+### Fordeler
+- Den høye cellespenningen.
+- Tåler godt klattladning
+- Energitetthet?
+### Ulemper
+- Karbon, oksygen og brennbarveske(elektrolytten) er alle brennbare, dette sammen med den høye nominellspenningen gjør batteriet mer brannfarlig/eksplosjonsfarlig
+- Fungerer dårlig ved lave temperaturer.
 
 ### Bruksområder
+
+Lithium ion batteriene har i stor grad erstattet de gamle nikkel-baserte batteriene, og har også funnet nye bruksområder i elektriske biler, hvor cellene gjerne blir koblet sammen til å gi en spenning på ca. 400V.
