@@ -14,6 +14,7 @@ Etter eneveldets innførsel ble det mer vanlig å kreve inn skatter som var tilt
 Den danske kongen var sammenlignet med andre eneveldige monarker i Europa svært slagkraftig. I f.eks. England styrte kongen sammen med 2 kammer, ett for adlige, og ett for ikke adlige. Også i Sverige delte kongen makten med riksdagen. De fleste andre kongedømmer hadde også stenderforsamligner som representerte de forskjellige klassene i samfunnet. Danmark-Norge hadde ingen institusjoner som lignet disse.
 
 # Eneveldets omveltninger som svar på behov
+Innen eneveldet ble innført i Danmark-Norge hadde landet opplevd en vekst både i befolkningne, som nå var over det antallet vi så før svartedauden, samt økonomisk vekst. Dette betydde at styringen av riket ble stadig mer komplekst. Man kan derfor se på innføringen av eneveldet, og de reformene som fulgte som et svar på bla. dette.
 
 
 # Omstruktureringer av administrasjonen etter innføringen av eneveldet

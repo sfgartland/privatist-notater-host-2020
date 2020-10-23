@@ -16,6 +16,15 @@ Hungersnøden var delt inn i 2 deler. Den første mellom 1807-1808/9, denne var 
 
 Befolkningen ble dog spart for direkte voldsutøvelse og plyndring som eller var vanlig i krig. Dette tenkes at oftest er pga. et godt organisert kystvern som var raskt til å reagere.
 
+### Konsekvenser for handelsnæringen
+Danmark-Norge hadde ført en nøytralitetspolitikk gjennom de fleste krigene som herjet på kontinetnet på 1700-tallet. Dette ga gode handelsintekter for riket.
+
+Men med bombingen av København i 1807, og Danmark-Norges inndragelse i Napoleonskrigene ble det bråstans av handelen, da pga. den britiske handelsblokkaden.
+
+Etter at blokaden og krigen var over fikk fiskerinæringen ganske problemfritt returnere til sine markeder i kontinentaleuropa. Men trelasthandelen, som tidligere hadde hatt sitt tyngdepunkt imot England slet mer. England valgte å opprettholde høye tollsatser på tømmer for å verne om trelastshandeln med sine egne kolonier.
+
+Vi kan derfor se hvordan forskjellige deler av landet ble rammet forskjellig av ringvirkningene av krigen. Vestlandet, som handlet mest i fisk fikk en relativt rask økonomisk oppsving, mens østlandet som var mer avhengig av trelasthandelen slet.
+
 ## Sveriges overtakelse av Norge
 Den svenske tronen sto uten arvefølger i tiden etter at Sverige tapte Finland til Russland i 1809. Valget falt da på en fransk general, som kom til Sverige under navnet Karl Gustav. Istedenfor å gjenerobre Finland satte svenskene øynene på Norge, og håpet på hjelp fra Napoleon. Franskmenne avslo dog forslaget, og Sverige rettet seg mot britene, og ble lovet Norge som krigsutbytte, mot å slå seg med i koalisjonen mot Napoleon i 1813. På høsten 1813 var Napoleon på defansiven etter det skjebnesvagnre felttoget i Russland, og ble slått av opposisjonen, deriblant svenske styrker ved Leipzig. Etter dette marsjerte de svenske styrkene nord til Danmark og tvang Fredrik den 6 til å overgi Norge. Dette skjedde i Januar 1814, etter forhandliger som ble kjent som Kielfreden.
 
