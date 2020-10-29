@@ -8,7 +8,7 @@ En ideologi inneholder også som oftest idealer som forteller oss hva som er en 
 # Ideologiers fremvekst
 **Liberalismen** hadde sitt utspring i folk missnøye med at kongen samlet mye rikdom. Borgerskapet var av de som var pådrivere for å frigjøre økonomien. 
 
-**Sosialismen** på den andre siden vokste frem som et svar på ulikheter i den liberaleøkonomiene etter den industrielle revolusjonen. 
+**Sosialismen** på den andre siden vokste frem som et svar på ulikheter i den liberaleøkonomiene etter den industrielle revolusjonen. Mange av de mer voldelige og store arbiderbevegelsene kom etter den store depresjonen på 1870-tallet og utover.
 
 Den europeiske **Facismen** vokste frem i mellomkrigstiden, da mest pga. nødstidene som mange europere led under.
 

@@ -17,8 +17,30 @@ Tradisjonalismen la hovedtyngden på små skrittvise endringer, fremfor store br
 ### Nasjonalismen
 Nasjonalismen hadde sitt opphav i ideene om likhet mellom mennesker. Etter den franske revolusjonen var ikke folk lenger å betrakte som en spesifikk stand, med visse rettigheter og plikter. Nå var de alle franskmenn, og med det fulgte en ny type identitet, nasjonalidentiteten. Denne felleskaps identiteten bygget etter hver mer og mer på felles etnisitet og kultur. Vi kan derfor si at nasjonalismen er grunnen til bla. fornorskningspolitikken som ble ført mot samene på 1800-tallet. Denne utviklingen som la større vekt på delt kultur, historisk arv og etnisitet kalles gjerne "det tyske nasjonalismebegrepet", hvor en av de mest ekstreme utfallene var nazisme bevegelsen i Tyskland, som la ekstremt mye vekt på felles historie/mytologi og etnisitet. Denne typen fremmedgjøring kalles ofte **negativ integrasjon**. Da i kontrast til **positiv integrasjon** som forsøker å skape samhold ved å inkludere forskjellige grupper.
 
-Nasjonalismen sees ofte å eksistere på et spekter, hvor man har mild nasjonalisme, som den vi f.eks. ser i Norge idag, og i den andre enden Nazisme ideologien som vokste frem i Tyksland på 1930-tallet.
+Den nasjonalismen som vokste frem i frankrike etter den *franske revousjonen* var sterkt forankret i politikken, og den politiske ideen om at alle som var borger av frankrike, uavhengig av språk, etnisitet og kultur var en del av den franske nasjonen.
 
+Nasjonalidentiteter vokste often frem på 1700- og i stor grad 1800-tallet **som et resultat av krigføring**. F.eks. Franske kriger mot England, og Tyskernes kriger mot Frankrike, Danmark og Østerriket, som kulminerte med Otto von Bismarcks samling av de tyske statene til en nasjonalstat.
+
+Moderne utslag av nationalismen kan vi se i f.eks. Russlands anneksering av Crimea. Tyrkisk politikk med tanke på Armenia/Azerbjian, Kurderne i sør-øst tyrkia osv. Også spenninger i Tyskland som følge av tyrkiske og arabiske gjestearbeidere er i stor grad et resultat av nasjonalistiske holdninger.
+
+Moderne("politisk") Nasjonalismen sees ofte å eksistere på et spekter, hvor man har mild nasjonalisme, som den vi f.eks. ser i Norge idag, og i den andre enden Nazisme ideologien som vokste frem i Tyksland på 1930-tallet.
+
+#### Positive sider ved den nasjonalistiske utviklingen
+Før de nasjonalistiske ideene fikk gjennomslag i Europa identifiserte folk seg mer med sitt lokale tllhørsted og sin stand som bonde, medlem av borgerskapet osv. Nasjonalismen var i slik forstand svært samlende og bygget et fundament for mer effektiv utvikling av f.eks. fattigvesen, barnevern, helsetjenester osv. mye av dette hadde ikke vært mulig uten den organisasjonen som nasjonalismen muliggjorde.
+
+Nasjonalismen hjalp også demokratiet å utvikle seg i Europa, ideen om en felles nasjonal identitet, og menneskelikheten ledet naturlig til ideer om mer innvolvering av allmennbefolkingen i styringen av staten. Man kan også se denne virkingen den andre vegen, at fremveksten av nasjonalstaten hadde sine røtter i demokrati/folkestyre bevegelsen, da denne ga mennesker med stemmerett, en gruppe som nå hadde vokst seg veldig stor, mer knyttning til staten de var med på å styre.
+
+#### Utrykk for etnisk nasjonalisme
+Et uttrykk for den etniske komponentne i nasjonalismen er repatriseringslovene som mange land har, disse gir medlemmer av en etnisk diaspora rett på statsborgerskap i sine land. Italia og Romania er 2 europeiske land som idag praktiserer slik politikk. Armenia og Tyrkia har også sterke lover som dette.
+
+Tyskland praktiserte også slik politikk spessielt på 1990-tallet, i denne tiden benyttet mange etniske tyskere som hadde bodd i den tidligere sovietunionen muligheten til å emigrere til Tyskland.
+
+#### Undertrykking av minoriteter
+Et resultat av nasjonalismen, spessielt de avartene som bygger sterkt på etnisk og språkelig sammhold er at minoriteter ofte blir diskriminert.
+
+I Norge ble det innført lover som forbød bla. samer i bruke sitt eget språk, og de fikk heller ikke snakke sitt eget språk seg imellom på internatskolene de bodde.
+
+De mer ekstreme utfalle av slik tenkning er folkemordene som ble begått bla. under samlingen av Tyrkia til en nasjonalstat etter det osmanske rikets fall. Det mest kjente folkeforfølgelsne som skjedde der er det armenske folkemordet som tok livet av så mange som 1,5 millioner armenere. Grekere og assyrere ble også forfulgt.
 
 #### Norrøn mytologi som nasjonsbyggningsverktøy
 Den norrøne mytologien er et godt eksempel på hvordan man kan bruke felles arv til nasjonsbyggning. Vikingetiden har også blitt brukt til det samme formålet, da mange nordmenn ser stolt tilbake på denne tiden, som en såkalt "storhetstid". Disse verktøyene gir nordmenn en felles arv som binder dem sammen og skaper en følelse av sammhold.
@@ -33,6 +55,8 @@ Med tanke på nasjonalisme brukes gjerne *sosialdarwinismen* som verktøy for na
 
 ## Sosialismen/Kommunismen
 Sosialisme er et samlebegrep for bla. sosialisme, sosialdemokrati og kommunisme. Disse ideologiene hadde sitt utspring i arbeiderbevegelsene som oppsto i kjølvannet av den industrielle revolusjonen, og på mange måter som et svar på det mange mente var urettferdigheter i den fremvoksende økonomien, som i stor grad var bassert på liberale/kapitalistiske ideer.
+
+**Arbeiderbevegelsen identifiserte seg med en arbeideridentitet fremfor nasjonalidentitet**. Dette skapte et svært sterkt bånd på tvers av landegrenser. Et eksempel på dette er **Wolberggruppen** som var en gruppe for bekjempelse av facismen og til forsvar for sovietunionen. Gruppen vokste ut av den spanske borgerkrigen, og utførte sabotasjeaksjoner mot hovedsaklig tyske mål i store deler av Vest-Europa.
 
 ### Økonomisk tenkning
 **Se neste del**

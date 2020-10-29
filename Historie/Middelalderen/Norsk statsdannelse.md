@@ -43,7 +43,6 @@ Tiden fra 1130 og fremover kalles ofte Borgerkrigstiden pga. de mange interne ko
 
 
 
-
 ## Institusjoner i middelalderen
 
 ### Leidangen

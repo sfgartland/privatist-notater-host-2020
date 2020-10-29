@@ -24,6 +24,12 @@ I tiden rundt 1850 begynte industrialiseringen også i Norge, i første omgang v
 
 På samme tid som at tekstilfabrikkene spredte seg rundt om i Norge ble det også etablert mekaniske fabrikker/verksteder.
 
+**Tungindustrien** ble først etablert i Norge i 1905 med Hydro på Rjukan.
+
+Ved århundreskille ble mer og mer utenlandsk kapital investert inn i Norsk industri.
+
+**Norge var et av de europeiske landene som hadde størst utvikling under den industrielle revolusjonen, og ved inngangen til 1. verdenskrig var Norge blant de mer velstående landene regnet i BNP i Europa.**
+
 ## Samfunnsomveltninger
 Da produksjonskapasiten til samfunnet eksploderte førte det til en helt enorm økonomisk vekst, og til en total omveltning av samfunnsordenen som man ikke hadde sett maken til før i historien.
 
