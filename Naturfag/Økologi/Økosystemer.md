@@ -24,7 +24,7 @@ Et *Økosystem* består av både *biotiske* og *abiotiske* elementer.
 
 **Næringnett** *næringskjeder* finnes svært sjeldent som uavhengige systemer, og de tar oftests del i et *næringsnett*, det vil si en sammenføyelse av mange forskjellige *næringskjeder*.
 
-**Primærprodusenter** er er de organismenen som omformer uorganism materiale til organisk materiale. De planteeterne som spiser *primærprodusenter* kalles **primærkonsumenter (trofisk nivå)**. De som igjen spiser *primærkonsumenter* kalles **sekundærkonsumenter**. Nivået over *sekundærkonsumentene* kalles **tertiærkonsumenter**
+**Primærprodusenter** er er de organismenen som omformer uorganisk materiale til organisk materiale. De planteeterne som spiser *primærprodusenter* kalles **primærkonsumenter (trofisk nivå)**. De som igjen spiser *primærkonsumenter* kalles **sekundærkonsumenter**. Nivået over *sekundærkonsumentene* kalles **tertiærkonsumenter**
 ![edb92342f40a9afe7a7163a091dc59f5.jpg](../../_resources/6f381320e3224780a5ac1a90bdfa67e8.jpg)
 
 

@@ -18,3 +18,4 @@ De tradisjonelt somaliske områdene ble delt mellom Italia, Storbritannia og Fra
 - Deler av Somalia falt også til Etiopia
 
 
+
